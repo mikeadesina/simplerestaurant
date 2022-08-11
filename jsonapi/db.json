@@ -1,0 +1,60 @@
+{
+  "user": [
+    {
+      "name": "michael",
+      "email": "customer@email.com",
+      "password": "olatokun",
+      "id": 1
+    },
+    {
+      "name": "michaelola",
+      "email": "customer2@email.com",
+      "password": "olatokun",
+      "id": 2
+    },
+    {
+      "name": "michaelolade",
+      "email": "customer3@email.com",
+      "password": "olatokun",
+      "id": 3
+    },
+    {
+      "name": "babatunde",
+      "email": "mike@gmail.com",
+      "password": "developer",
+      "id": 4
+    },
+    {
+      "name": "adigun",
+      "email": "adigun@gmail.com",
+      "password": "developer",
+      "id": 5
+    },
+    {
+      "name": "alaja",
+      "email": "alaja@gmail.com",
+      "password": "olatokun",
+      "id": 6
+    },
+    {
+      "name": "olatokun",
+      "email": "ade@gmail.com",
+      "password": "olatokun",
+      "id": 7
+    },
+    {
+      "name": "perter",
+      "email": "peter@gmail.com",
+      "password": "olatokun",
+      "id": 8
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 2,
+      "name": "Domino",
+      "contact": "123456",
+      "address": "Hoida canaanland"
+    }
+  ]
+}
